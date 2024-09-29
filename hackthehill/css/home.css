@@ -19,26 +19,49 @@
     font-size: 35px;
 }
 
+.rectangle {
+    width: 300px;
+    height: 125px;
+    border-radius: 30px;
+    border: none;
+    margin: 0 0 0 48.5rem;
+    position: absolute;
+    top: 6rem;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+}
+
+.rectangle-assignment {
+    width: 35px;
+    height: 35px;
+    border-radius: 30px;
+    border: none;
+    margin: 0 0 0 67.2rem;
+    position: absolute;
+    top: 17rem;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+}
+
+.rectangle-calendar {
+    width: 100px;
+    height: 35px;
+    border-radius: 30px;
+    border: none;
+    margin: 0 0 0 37rem;
+    position: absolute;
+    top: 6.5rem;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+}
+
 body {
     background-color: #e4d6b0;
     font-family: 'Alata', sans-serif;
-    margin-top: 28rem;
 } 
-
-.container {
-    font-size: 1.2rem;
-    letter-spacing: 0.1rem;
-    color: #fff;
-    border-radius: 25px;
-    border: none;
-    padding: 1.5rem;
-    background-image: linear-gradient(180deg, #bf936d, #ab785b);
-    text-align: center;
-}
-
-main {
-    text-align: center;
-}
 
 ::placeholder {
     color: #fff;
@@ -71,18 +94,8 @@ li {
     text-decoration: none;
 }
 
-a:hover {
-    text-decoration: underline;
-} 
 
-input.container:focus {
-    outline-width: 0;
-}
 
-button.container:focus {
-    outline-width: 0;
-}
 
-button.container:hover {
-    cursor: pointer;
-}
+
+

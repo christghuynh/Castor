@@ -1,0 +1,100 @@
+input[type="text"], input[type="number"] {
+    font-size: 18px;
+    color: #e4d6b0;
+    background: transparent;
+    border: none;
+    text-align: left;
+    width: 300px;
+    display: block;
+    padding-left: 10px;
+    outline: none;
+}
+input[type="text"]::placeholder {
+    color: #e4d6b0;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    padding-right: 30px;
+    position: relative;
+    top: -1.3rem;
+}
+.custom-arrows {
+    position: absolute;
+    left: 10rem;
+    top: 0rem;
+    color: #682b21;
+    font-size: 18px;
+    cursor: pointer;
+}
+.hours-label {
+    font-size: 18px;
+    color: #e4d6b0;
+    margin-top: 8.5rem;
+    margin-left: 5rem;
+}
+.assignment-container {
+    display: flex;
+    position: absolute;
+    left: 5.5rem;
+    top: 7.5rem;
+}
+.assignment-list {
+    background-color: rgba(104, 43, 33, 0.8);
+    color: #e4d6b0;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    width: 15.625rem;
+    max-height: 25rem;
+    overflow: hidden;
+    margin-right: 1rem;
+}
+button {
+    background: transparent;
+    border: 2px solid #ffffff;
+    color: #e4d6b0;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+button:hover {
+    color: #d1c6b0;
+    border-color: #e4d6b0;
+}
+
+
+input[type="date"] {
+    background: transparent;
+    border: 2px solid #682b21;
+    color: #e4d6b0;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.circle {
+    background-image: linear-gradient(180deg, #bf936d, #ab785b);
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    margin: 0 0 0 73rem;
+    position: absolute;
+    top: 1.5rem;
+    text-align: center;
+    color: #fff;
+    font-size: 35px;
+}
+
+.circle a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.circle a:hover {
+    text-decoration: none;
+}
