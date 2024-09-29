@@ -1,5 +1,6 @@
 # Castor - Hack the Hill II
 ![justinicon](https://github.com/user-attachments/assets/103f4727-5aa5-485e-b6af-9e740621ea87)
+
 Are you a student with a "busy life" and have procrastination issues? Introducing Castor, featuring Justin Beaver; the web app that helps organize your activities and allocates studying time for you.
 
 ![Screenshot 2024-09-29 104600](https://github.com/user-attachments/assets/2b43534a-8705-4c6a-93d4-3b6ed828522f)
