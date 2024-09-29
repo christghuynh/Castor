@@ -1,5 +1,6 @@
 # Castor 
 ![justinicon](https://github.com/user-attachments/assets/103f4727-5aa5-485e-b6af-9e740621ea87)
+
 Castor is a web app that is designed to track your daily calendar, as well as your list of assignments to study for. 
 With the help of Justin Beaver, our lovely Canadian mascot, the web app automatically allocates time in your schedule 
 to study as soon as you enter your school work. When it's time to study, Castor helps you use the famous and very 
