@@ -7,3 +7,4 @@ to study as soon as you enter your school work. When it's time to study, Castor 
 effective _pomodoro studying technique_. Studying time is divided into sessions of 25 minutes, plus 5-minute breaks. 
 During each break, play a quick, relaxing mini-game with Justin Beaver to checkpoint your studying!
 
+![Screenshot 2024-09-29 104600](https://github.com/user-attachments/assets/2b43534a-8705-4c6a-93d4-3b6ed828522f)
