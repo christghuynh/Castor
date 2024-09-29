@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Castor | Assignment Page</title>
+    <link rel="stylesheet" href="css/assignment.css">
+    <script src="js/assignment.js"></script>
+    <style>
+        body {
+            background-image: url('images/assignment.png');
+            background-size: cover;
+            background-repeat: no-repeat;
+            font-family: 'Klein', sans-serif;  
+        }
+    </style>
+</head>
+<body>
+    <a href="home.html"><div class="circle">x</div></a>
+    <div class="assignment-container">
+        <div class="assignment-list" id="checkboxes">
+            <h2>Assignments</h2>
+            <div id="checkboxesContent"></div>
+        </div>
+        <div class="assignment-list" id="checkboxes2" style="display: none;">
+            <h2>Assignments</h2>
+            <div id="checkboxesContent2"></div>
+        </div>
+    </div>
+
+
+    <input type="text" id="assignmentInput" placeholder="Enter Assignment Name" style="margin-top: 10.4rem; margin-left: 48rem;" spellcheck="false" />
+    <button onclick="addAssignment()" style="position: absolute; left: 63rem; top: 24.5rem;">Add Assignment</button>
+
+
+    <div class="due-date-title" style="margin-top: 3.5rem; margin-left: 48.7rem; font-size: 18px; color: #e4d6b0;">
+        Enter Due Date:
+    </div>
+    <input type="date" style="position: absolute; left: 62.8rem; top: 14.7rem">
+
+
+    <div style="margin-top: 7rem; margin-left: 48rem; position: relative;">
+        <div class="hours-label">Minutes</div>
+        <input type="number" id="hoursSpinner" value="0" min="0" style="width: 100px;" spellcheck="false" />
+        <div class="custom-arrows">
+            <span class="up" onclick="changeValue(1)">▲</span>
+            <span class="down" onclick="changeValue(-1)">▼</span>
+        </div>
+    </div>
+</body>
+</html>
+
+
