@@ -1,4 +1,4 @@
-# Castor 
+# Castor - Hack the Hill II
 ![justinicon](https://github.com/user-attachments/assets/103f4727-5aa5-485e-b6af-9e740621ea87)
 
 Castor is a web app that is designed to track your daily calendar, as well as your list of assignments to study for. 
